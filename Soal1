@@ -1,1 +1,8 @@
+program tugas1;
 
+uses crt;
+
+begin
+    clrscr;
+    println('Belajar Pascal Untuk Dasar Pemrograman');
+end. 
