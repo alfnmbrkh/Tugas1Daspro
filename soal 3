@@ -1,0 +1,13 @@
+program tugas3;
+var
+nama,alamat,nim :string;
+kom : char;
+begin
+
+    write('Masukkan nama anda : '); readln(nama);
+    write('Masukkan Nim anda : '); readln(nim);
+    write('Masukkan Kom anda : '); readln(kom);
+    write('Masukkan Alamat anda : '); readln(alamat);
+    write('Hallo, Nama saya ',nama,', NIM saya ',nim,', saya di kom ',kom,', alamat saya di ',alamat,'. Salam Kenal Semua!');
+    
+end.
